@@ -10,7 +10,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "now-start": "react-scripts start",
+    "now-dev": "react-scripts start",
     "build": "react-scripts build",
     "now-build": "react-scripts build",
     "test": "react-scripts test",
